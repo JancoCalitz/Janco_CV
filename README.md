@@ -64,7 +64,7 @@ school’s processes and improved access to information.
 - 📧 Email: **calitzjanco@gmail.com**  
 - 📞 Phone: **(+27) 67 138 7151**  
 - 📍 Location: Pretoria, South Africa  
-- 💻 GitHub:  
+- 💻 GitHub:  https://github.com/JancoCalitz
 - 🔗 LinkedIn:  
 
 ---
