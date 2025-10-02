@@ -65,7 +65,7 @@ school’s processes and improved access to information.
 - 📞 Phone: **(+27) 67 138 7151**  
 - 📍 Location: Pretoria, South Africa  
 - 💻 GitHub:  https://github.com/JancoCalitz
-- 🔗 LinkedIn:  
+- 🔗 LinkedIn:  www.linkedin.com/in/janco-calitz-822052306
 
 ---
 
